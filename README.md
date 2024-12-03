@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 3/12/2024
 
 ## AIM:
 
@@ -45,18 +45,16 @@
 ###   3. Finally, calculate ωcd from the relation v = rω 
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/97627fa4-0d38-412c-8745-082bd7b85299)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/15f7e50d-486d-46d0-bed0-8f51b36e7396)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/b01469ff-cb80-4ca6-a6ef-ae521ee9b717)
 
 
 ## Output:
 
+![WhatsApp Image 2024-12-02 at 22 41 09_9b140bc9](https://github.com/user-attachments/assets/2b1cb7d8-e9b9-4bfd-8ec1-9484281d3bdf)
+![WhatsApp Image 2024-12-02 at 22 42 06_7a51a8dd](https://github.com/user-attachments/assets/90e28b6d-f617-49c8-a1d4-94804f5a3fd7)
+![WhatsApp Image 2024-12-02 at 22 42 29_0dd2e36b](https://github.com/user-attachments/assets/dc0abada-c536-48ec-a78e-71e44fea9777)
 
-### Name:
-### Register Number: 
+### Name: K Rahul royal
+### Register Number: 24001378
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
